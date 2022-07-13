@@ -1,0 +1,11 @@
+{
+  "name": "node-js-sequelize",
+  "version": "1.0.0",
+  "description": "It is very interesting tutorial which explain us to how to work node js with mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
